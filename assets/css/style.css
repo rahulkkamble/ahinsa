@@ -3921,6 +3921,7 @@ label {
 }
 .renvia-project-item.style-four .project-thumbnail img {
   width: 100%;
+  object-fit: cover;
   border-radius: 30px;
 }
 .renvia-project-item.style-four .project-thumbnail .hover-content {
