@@ -2176,7 +2176,11 @@ label {
 }
 @media (max-width: 767.98px) {
   .renvia-about_one .renvia-image-box .renvia-image.image_three {
-    display: none;
+    /* display: none; */
+    position: absolute;
+    right: -5%;
+    top: 40%;
+    scale: .8;
   }
   .renvia-about_one .renvia-image-box .renvia-image.image_three img {
     width: 100%;
